@@ -73,6 +73,8 @@ unsigned int sizeS = 20;
 vector<CMatrix4x4> step;
 vector<CMatrix4x4> step1;
 
+//sialalala
+
 void InitMarker()
 {
 	m.Identity();
